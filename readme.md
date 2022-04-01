@@ -1,3 +1,3 @@
-# Git and github course
+# git and github course
 
-Crash course for Git
+flash and sprint
