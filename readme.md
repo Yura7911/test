@@ -1,3 +1,3 @@
-# git and github course
+# git and github courses
 
-flash and sprint
+sprint and flash
